@@ -1,5 +1,5 @@
 # System Info
- Command line utility to display system and recourse usage
+ Command line utility to display system and resource usage
 
  ![Screenshot of output](assets/sysinfo.png)
 
