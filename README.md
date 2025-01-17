@@ -1,6 +1,8 @@
 # System Info
  Command line utility to display system and recourse usage
 
+ ![Screenshot of output](assets/sysinfo.png)
+
 Features
 - View **RAM usage**, including total, used, and available memory.
 - Monitor **CPU usage**, including logical core counts, percentage usage, and system stats like context switches and interrupts.
