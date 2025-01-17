@@ -1,5 +1,5 @@
 # System Info
- Command line utility to display system and resource usage
+ A command-line utility that displays system information and resource usage on Windows operating systems.
 
  ![Screenshot of output](assets/sysinfo.png)
 
